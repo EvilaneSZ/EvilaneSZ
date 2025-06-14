@@ -9,7 +9,7 @@
 
 ## 💡 Sobre mim
 
-Sou a Evilane Vieira e atualmente estou em uma jornada de transição de carreira para a área de **tecnologia**, mais especificamente **desenvolvimento front-end**.
+Sou a Evilane Vieira e atualmente estou em uma jornada de transição de carreira para a área de **tecnologia**, com foco em **desenvolvimento front-end**.
 
 Atuo na área da saúde como assistente dentária, mas tenho me dedicado aos estudos de programação, pois acredito no poder transformador da tecnologia e na possibilidade de construir um futuro com mais liberdade e criatividade.  
 
